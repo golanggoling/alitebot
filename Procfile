@@ -1,1 +1,1 @@
-web: gunicorn alitebot.wsgi --log-file -
+web: gunicorn bot.wsgi --log-file -
